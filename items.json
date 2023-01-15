@@ -57,5 +57,27 @@
 		"price": "42.99",
 		"currencySymbol": "Nieren",
 		"hasPage": false
+	},
+	{
+		"id": "rtx4090",
+		"name": "Nvidea GeForce RTX 4090",
+		"description": "Ganz bestimmt die beste Grafikkarte die es gibt!",
+		"rating": 2,
+		"ratingCount": 0.5,
+		"inStock": 1,
+		"price": 1,
+		"currencySymbol": "Erstgebohrenes",
+		"hasPage": false
+	},
+	{
+		"id": "rtx4090_power",
+		"name": "Nvidea GeForce RTX 4090 Stromkabel",
+		"description": "Für die beste Energie!",
+		"rating": 5,
+		"ratingCount": 0.5,
+		"inStock": 0,
+		"price": 100,
+		"currencySymbol": "€",
+		"hasPage": false
 	}
 ]
